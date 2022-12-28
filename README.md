@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zoe2oe
 - 👀 I’m interested in 玩遊戲
-- 🌱 I’m currently learning GitHub
+- 🌱 I’m currently learning GitHub and AI2
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
